@@ -1,1 +1,1 @@
-# Adarsh2701-OTT-Netflix-Prime-Hotstar-Power-BI-Dashboard
+OTT-Netflix-Prime-Hotstar-Power-BI-Dashboard
