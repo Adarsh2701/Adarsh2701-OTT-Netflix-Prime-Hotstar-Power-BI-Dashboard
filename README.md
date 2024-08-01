@@ -30,7 +30,9 @@ The OTT Analysis Power BI Dashboard project aims to provide a detailed analysis 
 ## Dashboard Overview
 
 Netflix Dashboard: https://github.com/Adarsh2701/OTT-Netflix-Prime-Hotstar-Power-BI-Dashboard/blob/main/1.jpg
+
 Amazon Prime Dashboard: https://github.com/Adarsh2701/OTT-Netflix-Prime-Hotstar-Power-BI-Dashboard/blob/main/2.jpg
+
 Hotstar Dashboard: https://github.com/Adarsh2701/OTT-Netflix-Prime-Hotstar-Power-BI-Dashboard/blob/main/3.jpg
 
 ### Netflix Dashboard
